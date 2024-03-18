@@ -6,6 +6,8 @@ Flutterで開発した、非常に簡素な機能のYOLOデータセット作成
 
 ## Instructions for Use
 
+https://github.com/omomo17/Simple_YOLO_dataset_creator/assets/65716029/e91c6b16-bdb5-43a2-9d01-aa2a79b5b3a1
+
 1. 【フォルダ】アイコンをクリックし、ラベリングしたい画像が保存されているフォルダを開きます。
 2. 選択したフォルダにdataset.yamlが存在しない場合、新たに作成します。存在する場合は読み込みます。
 3. 【テキストフィールド】にクラス名を書き、Enterまたは【+】アイコンをクリックすると新しいクラスが追加されます。
